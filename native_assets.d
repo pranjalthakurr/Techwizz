@@ -1,0 +1,1 @@
+ D:\\OneDrive\\Desktop\\flutter_projects\\techwiz\\.dart_tool\\flutter_build\\bc3f3b61051c384827c021a1e19a8cec\\native_assets.yaml: 
